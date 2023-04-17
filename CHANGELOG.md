@@ -1,5 +1,4 @@
-<!-- # Changelog
-
+<!-- 
 ## 3.10.2
 
 - Fix Type1 font widths
@@ -631,4 +630,4 @@
 
 ## 1.0.0
 
-- Initial version -->
+- Initial version --> -->

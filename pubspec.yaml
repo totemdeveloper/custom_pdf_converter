@@ -6,7 +6,7 @@ issue_tracker: https://github.com/totemdeveloper/custom_pdf_converter/issues
 screenshots:
   - description: 'Example of a generated document'
     path: example.jpg
-version: 3.10.2
+version: 3.10.4
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
