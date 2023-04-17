@@ -1,8 +1,8 @@
 name: custom_pdf_converter
 description: A pdf producer for Dart. It can create pdf files for both web or flutter.
-homepage: https://github.com/DavBfr/dart_pdf/tree/master/pdf
-repository: https://github.com/DavBfr/dart_pdf
-# issue_tracker: https://github.com/DavBfr/dart_pdf/issues
+homepage: https://github.com/totemdeveloper/custom_pdf_converter
+repository: https://github.com/totemdeveloper/custom_pdf_converter
+issue_tracker: https://github.com/totemdeveloper/custom_pdf_converter/issues
 screenshots:
   - description: 'Example of a generated document'
     path: example.jpg
